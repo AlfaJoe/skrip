@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AlpJoe
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Memudahkan CMS TM!
 // @author       Alfa Joe Pattyranie
 // @match        http://manado.tribunnews.com/cms/index.php/record/*
@@ -11,7 +11,6 @@
 // ==/UserScript==
 
 (function() {
-// cuma tes kalo jadi
 //    var tes = document.getElementsByTagName("tr").lenght;
 //    document.getElementById("title").value = tes;
 //    tes kalo jadi update
