@@ -11,6 +11,7 @@
 // ==/UserScript==
 
 (function() {
+// cuma tes kalo jadi
 //    var tes = document.getElementsByTagName("tr").lenght;
 //    document.getElementById("title").value = tes;
 //    tes kalo jadi update
