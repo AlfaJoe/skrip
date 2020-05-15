@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://*.facebook.com/*
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/FB%20Status%202.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/FB%20Status%202.js
 // @grant        none
 // ==/UserScript==
 
