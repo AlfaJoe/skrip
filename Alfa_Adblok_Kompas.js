@@ -6,8 +6,8 @@
 // @author       You
 // @match        *.kompas.com/*
 // @grant        none
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/Alfa_Adblok_Kompas.user.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/Alfa_Adblok_Kompas.user.js
 // ==/UserScript==
 
 (function() {
