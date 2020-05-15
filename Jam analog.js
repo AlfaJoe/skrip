@@ -6,8 +6,8 @@
 // @author       Alfajoe
 // @match        manado.tribunnews.com/cms/index.php/record/*
 // @grant        none
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/Jam%20analog.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/Jam%20analog.js
 // ==/UserScript==
 
 (function() {
