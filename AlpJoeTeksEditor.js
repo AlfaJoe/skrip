@@ -6,8 +6,8 @@
 // @author       Alfa Joe Pattyranie
 // @match        http://manado.tribunnews.com/cms/index.php/record/*
 // @grant        none
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/AlpJoeTeksEditor.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/AlpJoeTeksEditor.js
 // ==/UserScript==
 
 (function() {
