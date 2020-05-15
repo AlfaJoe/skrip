@@ -6,8 +6,8 @@
 // @author       Alfa Pattyranie
 // @match        *.tribunnews.com/*
 // @grant        none
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/Alfa_Adblok_Tribun.user.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/Alfa_Adblok_Tribun.user.js
 // ==/UserScript==
 
 (function() {
