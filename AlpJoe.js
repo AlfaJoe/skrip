@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AlpJoe
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Memudahkan CMS TM!
 // @author       Alfa Joe Pattyranie
 // @match        http://manado.tribunnews.com/cms/index.php/record/*
@@ -21,6 +21,9 @@
     if (namaEditor == "http://www.tribunnews.com/member/alfajoe/#profile" || namaEditor == "http://www.tribunnews.com/member/Chintya_Rantung/#profile") {
        //
        //
+       // button submit mengambang start ---------------------------------
+       $(".button:eq(1)").css({"position" : "sticky", "bottom" : "20px"});
+       // button submit mengambang end -----------------------------------
     //$("#title").val("(VIDEO) ");
     $("#title").css("width", "800px");
     $("#topix").css("width", "600px");
