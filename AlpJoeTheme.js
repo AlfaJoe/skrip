@@ -5,8 +5,8 @@
 // @description  Memudahkan CMS TM!
 // @author       Alfa Joe Pattyranie
 // @match        http://manado.tribunnews.com/cms/index.php/*
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/AlpJoeTheme.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/AlpJoeTheme.js
 // @grant        none
 // ==/UserScript==
 
