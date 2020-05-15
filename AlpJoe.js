@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         AlpJoe
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Memudahkan CMS TM!
 // @author       Alfa Joe Pattyranie
 // @match        http://manado.tribunnews.com/cms/index.php/record/*
 // @grant        none
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/AlpJoe.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/AlpJoe.js
 // ==/UserScript==
 
 (function() {
