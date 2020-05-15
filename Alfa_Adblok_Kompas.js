@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Alfa_Adblok_Kompas
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        *.kompas.com/*
