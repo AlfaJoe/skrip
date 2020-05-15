@@ -9,8 +9,8 @@
 // @include      https://*.tribunnews.com/*/2019/*
 // @include      https://*.tribunnews.com/2019/*
 // @include      https://*.grid.id/read/*
-// @connect      https://ijul.000webhostapp.com
-// @updateURL    https://ijul.000webhostapp.com/skrip/Seilang%20Macam2.js
+// @connect      https://alfajoe.github.io
+// @updateURL    https://alfajoe.github.io/skrip/Seilang%20Macam2.js
 // @grant        none
 // ==/UserScript==
 
